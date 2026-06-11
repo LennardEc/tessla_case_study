@@ -1,4 +1,4 @@
 Trace, Policy
-data/Trace/allout.input: srv, data/Policy/allout.tessla: srv-policy
-data/Trace/blocks.input: srv, data/Policy/blocks.tessla: srv-policy
-data/Trace/closures.input: srv, data/Policy/closures.tessla: srv-policy
+data/Trace/allout.input: srv-trace, data/Policy/allout.tessla: srv-policy
+data/Trace/blocks.input: srv-trace, data/Policy/blocks.tessla: srv-policy
+data/Trace/closures.input: srv-trace, data/Policy/closures.tessla: srv-policy
